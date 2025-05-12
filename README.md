@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.ibb.co/pBBbNxHZ/D6-F06-ADD-07-F9-4083-8-C6-C-C447-E2-C882-A4.png"  style="width: 100%; height: auto; max-width: 400px;">
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=ChatUnity%20-%20X%20JJK&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=ChatUnity%20-%20ESSENTIAL&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
 
 <h1 align="center">© chatunity bot essential🤖</h1>
 <p align="center">
