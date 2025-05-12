@@ -31,7 +31,7 @@ let prova = { "key": {"participants":"0@s.whatsapp.net", "remoteJid": "status@br
 let info = `
 『💬』 ══ •⊰✰⊱• ══ 『💬』
 
-𝐒𝐂𝐀𝐑𝐈𝐂𝐀 𝐂𝐇𝐀𝐓𝐔𝐍𝐈𝐓𝐘-𝐁𝐎𝐓
+𝐒𝐂𝐀𝐑𝐈𝐂𝐀 𝐂𝐇𝐀𝐓𝐔𝐍𝐈𝐓𝐘-𝐁𝐎𝐓 ESSENTIAL
 
 Segui questi passaggi per installare ChatUnity Bot correttamente su Termux
 
@@ -83,7 +83,7 @@ conn.reply(m.chat, info,prova, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝙸𝙽𝙵𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃',
 body: 'ChatUnity',         
-previewType: 0, thumbnail: fs.readFileSync("./menu/Menu2.jpg"),
+previewType: 0, thumbnail: fs.readFileSync("./menu/chatunitybot.jpeg"),
 sourceUrl: `https://github.com/chatunitycenter/chatunity-bot-essential`}}})
 }
 handler.help = ['infobot', 'speed']
